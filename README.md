@@ -15,7 +15,7 @@
   <h3 align="center">Iphone 15 Website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.instagram.com/aldrchdapaz" target="_blank"><b>Aldrich Daffa Zalfansyah</b></a> Instagram. Follow for more!
+     Build this project step by step with our detailed tutorial on <a href="https://www.instagram.com/dapaaaa_" target="_blank"><b>Aldrich Daffa Zalfansyah</b></a> Instagram. Follow for more!
     </div>
 </div>
 
